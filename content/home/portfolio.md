@@ -28,12 +28,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
+    - name: Robotics
+      tag: robotics
     - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+      tag: computer-vision
+    - name: Embedded Systems
+      tag: embedded
+    - name: Machine Learning
+      tag: ml
 
 design:
   columns: '1'

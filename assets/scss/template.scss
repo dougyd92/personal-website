@@ -115,3 +115,11 @@ ul.network-icon .big-icon {
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
 }
+
+// Begin custom styling
+
+div.card-body > div > div > img {
+  padding: 2px;
+  aspect-ratio: 1 / 1;
+  background-color: white;
+}
