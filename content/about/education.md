@@ -28,7 +28,7 @@ experience:
     company_logo: NYU
     location: New York, NY
     date_start: '2021-09-01'
-    date_end: '2023-12-01'
+    date_end: '2024-01-01'
     description: |2-
         * 4.0 GPA
         * Relevant coursework: 
