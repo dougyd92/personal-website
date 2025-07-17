@@ -6,7 +6,7 @@ title: Doug de Jesus
 superuser: true
 
 # Role/position
-role: 'Recent M.S. graduate with 8+ years SWE experience'
+role: 'Software engineer with 9 years experience. Focused on backend, ML, and robotics.'
 
 # Status emoji
 status:
@@ -54,13 +54,16 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
-I am looking for my next role as a robotics software engineer or a computer vision researcher.
+I’m a software engineer with a passion for robotics, computer vision, and building systems that interact with the real world. 
+I also have an interest in education and making coding accessible to all.
 
-I have over 8 years experience working as a backend software engineer at companies big and small. 
+I currently work at Amazon Robotics, where I develop software that manages and coordinates fleets of autonomous mobile robots across global fulfillment centers. 
+
+With over 9 years of experience as a backend software engineer, I have contributed to teams at companies big and small. 
 At Facebook, I trained machine learning models to fight spam and other forms of abuse, using data from billions of users.
 At Codecademy, I was a leader in the engineering organization and established development practices as we tripled in size.
 
-Having been a generalist for most of my career, I entered graduate school in order to specialize into the fields of robotics and artificial intelligence.
+After years as a generalist, I pursued a graduate degree to specialize in robotics and AI. I'm now seeking opportunities where I can apply that expertise to meaningful, technically challenging problems—whether in advanced robotics, computer vision, or mission-driven tech that makes a positive impact.
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

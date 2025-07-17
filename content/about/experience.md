@@ -22,6 +22,18 @@ date_format: January 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Development Engineer II
+    company: Amazon Robotics
+    company_logo: Amazon
+    location: North Reading, MA
+    date_start: '2024-06-01'
+    # date_end: '2025-08-01'
+    description: |2-
+      * Maintain and enhance internal tools used by global operations teams to monitor, manage, and troubleshoot robotic drive fleets across Amazon fulfillment centers.
+      * Lead the migration of critical services to a new load balancing framework.
+      * Develop and automate multi-region deployment pipelines to streamline alarm configuration across services, environments, and global warehouse sites.
+
+
   - title: Staff Software Engineer
     company: Codecademy
     company_logo: Codecademy
